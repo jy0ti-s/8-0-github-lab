@@ -27,5 +27,5 @@ Ada Lovelace
 Who is the "Turing machine" named after?
 
 ```
-Turing's 'automatic machines', as he termed them in 1936, were specifically devised for the computing of real numbers. 
+Alan Turing
 ```
